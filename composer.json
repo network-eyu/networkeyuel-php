@@ -1,17 +1,17 @@
 {
-    "name": "melaku/telebirr",
-    "description": "a telebirr library for php",
+    "name": "network-eyu/networkeyuel",
+    "description": "a networkeyuel library for php",
     "type": "library",
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Melaku\\Telebirr\\": "src/"
+            "network-eyu\\networkeyuel\\": "src/"
         }
     },
     "authors": [
         {
-            "name": "MelakuDemeke",
-            "email": "melaku.demeke789@gmail.com"
+            "name": "network-eyu",
+            "email": "networkeyuel@duck.com"
         }
     ],
     "require": {
