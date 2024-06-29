@@ -1,9 +1,9 @@
 <?php
 
-namespace Melaku\Telebirr;
+namespace Melaku\NetworkEyuel;
 
 /**
- * Telebirr payment helper
+ * NetworkEyuel payment helper
  * 
  * @publicKey		public key provided form tele
  * @appKey			app key provided form tele
@@ -19,7 +19,7 @@ namespace Melaku\Telebirr;
  * 	
  */
 
-class Telebirr
+class NetworkEyuel
 {
 	private $publicKey;
 	private $appKey;
