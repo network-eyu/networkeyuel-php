@@ -1,12 +1,12 @@
 <?php
 
-namespace Melaku\Telebirr;
+namespace network-eyu\NetworkEyuel;
 
 /**
- * Telebirr payment helper
+ * NetworkEyuel payment helper
  * 
  * @publicKey		public key provided form tele
- * @data			data return from telebirr
+ * @data			data return from NetworkEyuel
  * 	
  */
 
